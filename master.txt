@@ -1,1 +1,2 @@
-Master file content 
+Final content for master.txt
+
