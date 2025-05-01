@@ -1,2 +1,2 @@
-This is master file 
-Line added in private branch 
+Final content for master.txt
+
